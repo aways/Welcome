@@ -1,5 +1,6 @@
 ->>> C-RoM Mix v19←↓
 
+- Fix SystemUI memory leaks on theme changes.
 - Use navbarZero to update bottom switch
 - Ribbons Colorize Action Icons
 - Settings: Add Permissions Management to C-RoM Mix
