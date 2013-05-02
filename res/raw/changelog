@@ -1,6 +1,8 @@
 ->>> C-RoM Mix v19←↓
 
 - Fix SystemUI memory leaks on theme changes.
+- Install persistence support
+- Fix Email force close when pressing back key after selecting characters
 - Use navbarZero to update bottom switch
 - Ribbons Colorize Action Icons
 - Settings: Add Permissions Management to C-RoM Mix
