@@ -15,8 +15,8 @@
 - Toggles: resize bitmap in UserToggle
 - power: Add panel auto-brightness configuration
 - HeaderViewListAdapter: Correct thrown error names.
-- 
-- 
+- Audio: Add overlay to fix analog docks.
+- Fix Pie Toggle.
 - 
 - 
 - 
