@@ -1,4 +1,4 @@
-->>> C-RoM Mix v20←↓
+-       ↓→ C-RoM Mix v20 ←↓
 
 - Performance Settings Credits : Slimroms And CM
 - Revert Install persistence support
@@ -17,22 +17,49 @@
 - HeaderViewListAdapter: Correct thrown error names.
 - Audio: Add overlay to fix analog docks.
 - Fix Pie Toggle.
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
+- Ribbon fix reset method derp.
+- Remove duplicate SystemUI restart.
+- SystemUI: More memory leak fixes
+- Revert "Remove opaque check in GLRenderer when preparing dirty region."
+
+- And More...
+
+
+        C-RoM Mix v19←↓
+
+- Fix SystemUI memory leaks on theme changes.
+- Install persistence support
+- Fix Email force close when pressing back key after selecting characters
+- Use navbarZero to update bottom switch
+- Ribbons Colorize Action Icons
+- Settings: Add Permissions Management to C-RoM Mix
+- Hidden Statusbar Pulldown
+- WLAN configuration (static address): reject IPv6 addresses.
+- Ribbon seperate the swipe ribbons.
+- Settings: Overwork LED colorpicker dialog
+- Fix dialog not opening for app-specific notification light settings.
+- Hidden Statusbar Pulldown Timeout
+- Make maximize lockscreen widget more clear.
+- Ribbon use updated getArray / putArray
+- FW: Ribbons Padding, Click options, autohide updates
+- SystemUI: StayAwake Toggle
+- Dynamic glowScale adjustment and spacing of NavBar.
+- Fix ListView is not scrolled properly with arrows
+- Can not mark the same content of browser page after copy
+- FW - Restore Padding in NavBar Buttons
+- PIE tweak-a-roonie: Remove from lockscreen
+- Allow creating custom dialogs in DialogPreference.
+- Add Internal C-RoM version string [Credits: SlimRom]
+- Fixed a leaked partial wakelock in AbstractThreadedSyncAdapter.
+- fix potential memory leak
+- update SystemUI's proguard.flags
+- FastScroller: Fix to use appropriate index
+- Framework/base: Added synchronization block to avoid race condition
+- aapt: localizations: be more aggressive
+- FW Ribbons Swipe ribbons seperated && logic adjust for navbar 
+- FW: settings: arrayList API rework
+- Add turn off action to WiFi Tether notification
+- Expanded Desktop Toggle [Credits: XYLON And Daxxmax.]
+- Fix deadlock of WebViewCoreThread
+- Fix graphical artifact in the fisheye effect
 - And More...
