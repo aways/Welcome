@@ -1,4 +1,31 @@
--       ↓→ C-RoM Mix v20 ←↓
+           ↓→ C-RoM Mix v21 ←↓
+- Ribbons - Long swipe App window.
+- implement 1% battery on select devices
+- Duplicate Media cleanup
+- Option to use volume keys to control media volume anytime
+- Wifi: Enable Ad-Hoc (IBSS) network configuration
+- Wifi: Add IBSS supported method
+- Wifi: Get the list of supported channels
+- Rethrow an exception with stack trace information.
+- Someone's IDE chose the wrong Date.
+- Add C-RoM Toggle as a default tile in Quick Settings
+- LockScreen: allow long-press actions from hardware keys
+- Avoid NPE when stop() is called inside callback
+- Ribbon - Toggles 
+- WirelessADB Toggle
+- PowerMenu : Profile entry fix
+- Ribbon Fix swipe ribbon and toggles for TabletUI 
+- Development Settings: fix setting reset on disable
+- Settings: add google+ restart for TRDS
+- Revert "Add AirplaneMod Enabler Into Settings."
+- remove all duplicate images
+- GCC 4.7 -O3 Optimizations..
+  And More...
+
+******************************************************
+
+          
+           ↓→ C-RoM Mix v20 ←↓
 
 - Performance Settings Credits : Slimroms And CM
 - Revert Install persistence support
